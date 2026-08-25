@@ -47,12 +47,8 @@ The application is designed to work properly on different screen sizes, includin
 * Tablet
 * Mobile
 
-## Future Improvements
-
-* Save tasks using Local Storage
-* Add task filtering
-* Add due dates
-* Add dark mode
+## Project Preview
+https://github.com/khosofareed913-gif/Todo-List-Project.git
 
 ## Author
 
