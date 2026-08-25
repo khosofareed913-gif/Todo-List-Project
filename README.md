@@ -48,7 +48,7 @@ The application is designed to work properly on different screen sizes, includin
 * Mobile
 
 ## Project Preview
-https://github.com/khosofareed913-gif/Todo-List-Project.git
+https://khosofareed913-gif.github.io/Todo-List-Project/
 
 ## Author
 
